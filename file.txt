@@ -1,1 +1,5 @@
-teste
+NLW Setup
+Você no controle pra fazer de 2023 seu melhor ano em programação. 
+Construa um projeto inédito, domine novas tecnologias e habilidades e prepare-se para levar seu código, 
+habilidades e carreira para o próximo nível 🚀
+Evento Feito pela Rocketseat na 3° Semana de Janeiro de 2023
