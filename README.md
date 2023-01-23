@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Habits é um app para ajudar a restaurar o habitos
 
-- [Acesse o projeto finalizado, online](https://JoãoPolloni.github.io/NLW-Setup)
+- [Acesse o projeto finalizado, online](https://joaopolloni.github.io/NLW-Setup/)
 
 ## 🔖 Layout
 
