@@ -12,7 +12,7 @@ NLW é programa exclusivo e gratuito, promovido pela Rocketseat para ensino de t
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img src="./assets/logoreaeme.svg" alt="Logomarca do aplicativo Habits" />
 </p>
 
 <br>
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Habits é um app para ajudar a restaurar o habitos
 
-- [Acesse o projeto finalizado, online](http://127.0.0.1:5500/index.html)
+- [Acesse o projeto finalizado, online](https://JoãoPolloni.github.io/NLW-Setup)
 
 ## 🔖 Layout
 
